@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38056'
     url: http://www.gutenberg.org/2009/agents/38056
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18521#An-Expository-Outline-of-the--Vestiges-of-the-Natural-History-of-Creation-With-a-Notice-of-th_
 gutenberg_issued: '2006-06-06'
 gutenberg_type: Text
 identifiers:
